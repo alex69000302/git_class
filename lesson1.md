@@ -1,7 +1,7 @@
 # NTU GIT CLASS EXERCISE 1
 
 Name
-alex69000302
+人可昂車干
 
 
 Date
@@ -9,7 +9,7 @@ Date
 
 
 Github Username
-alex69000302
+akmin1989
 
 
 My Favorite 3 Programming Languages
